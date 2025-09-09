@@ -12,7 +12,8 @@ body {
   color: white;
   padding: 30px;
   text-align: center;
-  width: 480px;
+  max-width: 480px;
+  width: 100%;   
 }
 .profile h1 {
   font-size: 2.2rem;
